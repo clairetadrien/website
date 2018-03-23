@@ -1372,6 +1372,9 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-qN8caqYRD2 {
+  background-image: url("../../../assets/images/mbr-1-1920x837.jpg");
+}
 .cid-qN85xyleJn .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1761,36 +1764,10 @@ body {
 .cid-qN85xyleJn .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qN86o5OHjU {
-  background-image: url("../../../assets/images/mbr-1920x837.jpg");
-}
-.cid-qN86o5OHjU .icons-media-container {
-  display: flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-  padding-top: 4rem;
-}
-.cid-qN86o5OHjU .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-qN86o5OHjU .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-qN86o5OHjU .mbr-text {
-  color: #ffffff;
-}
-.cid-qN86o5OHjU .card {
-  padding-bottom: 1.5rem;
-}
 .cid-qN89KcjoMz {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/background-800x361.jpg");
 }
 @media (min-width: 992px) {
   .cid-qN89KcjoMz .mbr-figure {
@@ -1805,6 +1782,28 @@ body {
 @media (max-width: 767px) {
   .cid-qN89KcjoMz .mbr-text {
     text-align: center;
+  }
+}
+.cid-qN89KcjoMz H1 {
+  color: #465052;
+}
+.cid-qN89KcjoMz .mbr-text,
+.cid-qN89KcjoMz .mbr-section-btn {
+  color: #000000;
+}
+.cid-qN8fFc6W64 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/nfs-mania-shift-2-barcelona-1-1920x1080.jpg");
+}
+@media (min-width: 992px) {
+  .cid-qN8fFc6W64 .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qN8fFc6W64 .mbr-figure {
+    padding-top: 3rem;
   }
 }
 .cid-qN85xA06mA {
@@ -1873,4 +1872,7 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qN85xA06mA P {
+  color: #149dcc;
 }
